@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../zuul"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "alfa"
+	}
+}
